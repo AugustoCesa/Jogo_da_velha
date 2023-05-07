@@ -10,7 +10,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: #e9e9e9;
+  background-color: #00c3ff;
 }
 
 .main{
@@ -26,7 +26,7 @@ h1{
 hr{
   font-weight: bold;
   height: 3px;
-  background: black;
+  background: rgb(0, 107, 25);
   margin-bottom: 10px;
 }
 
@@ -41,5 +41,5 @@ hr{
   margin: 5px;
   cursor: pointer;
   font-size: 50px;
-  background: #e9e9e9;
+  background: #d3d3d3;
 }
